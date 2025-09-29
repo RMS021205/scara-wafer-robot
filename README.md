@@ -61,7 +61,7 @@
 - 모터/액추에이터/로드셀 연결 확인  
 
 ### 2️⃣ Python 라이브러리 설치
-```bash
+
 pip install firebase-admin pyserial opencv-python numpy Pillow watchdog tensorflow keras pyrealsense2
 ### 3️⃣ Firebase 설정
 
