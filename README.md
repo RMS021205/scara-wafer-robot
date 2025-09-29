@@ -62,9 +62,10 @@
 ### 2. Python 라이브러리 설치
 ```bash
 pip install firebase-admin pyserial opencv-python numpy Pillow watchdog tensorflow keras pyrealsense2
+
 ### 3. Firebase
 
-Admin SDK 인증 파일 준비
+    Admin SDK 인증 파일 준비
 
 ### 4. 실행 순서
 
